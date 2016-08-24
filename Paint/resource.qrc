@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/black.png</file>
+        <file>resource/Blue.png</file>
+        <file>resource/color.png</file>
+        <file>resource/ellipse.png</file>
+        <file>resource/exit.png</file>
+        <file>resource/fill.png</file>
+        <file>resource/Green.png</file>
+        <file>resource/Line.png</file>
+        <file>resource/new.png</file>
+        <file>resource/open.png</file>
+        <file>resource/pencil.png</file>
+        <file>resource/rectangle.png</file>
+        <file>resource/Red.png</file>
+        <file>resource/save.png</file>
+        <file>resource/text-xxl.png</file>
+        <file>resource/Iconsmind-Outline-Eraser-3.ico</file>
+        <file>resource/1p.png</file>
+        <file>resource/3p.ico</file>
+        <file>resource/5p.png</file>
+    </qresource>
+</RCC>
